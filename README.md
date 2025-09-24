@@ -1,6 +1,6 @@
 ## Project Structure
 
-"""
+'''
 automated-review-rating-system/
 ├── data/
 ├── notebooks/
@@ -10,4 +10,4 @@ automated-review-rating-system/
 ├── README.md
 └── requirements.txt
 
-"""
+'''
